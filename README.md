@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajatpandey1496
-- 👀 I’m interested in python and mobile app development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on app development ideas
+- 👀 I’m interested in python for data analytics and mobile app development
+- 🌱 I’m currently learning python for data analytics
+- 💞️ I’m looking to collaborate on  data analysis and app development ideas
 - 📫 How to reach me pandeyrajath@gmail.com
 
 <!---
